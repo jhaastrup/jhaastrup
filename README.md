@@ -12,6 +12,7 @@ I am a software engineer, WordPress Evangelist and the covener of Kidsthatcode �
 ### Fun Projects 
 [Running Man 🏃🏾‍♀️](https://github.com/jhaastrup/running-man) 
 - A React App to help you loose weight if you are into fittness. 
+
 [Heros 🦸🏽‍♀️](https://github.com/jhaastrup/heros)
 - A Nextjs web APP that dives into MCU and returns cool heros.
 
