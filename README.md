@@ -6,6 +6,7 @@ I am a software engineer, WordPress Evangelist and the covener of Kidsthatcode ð
 ### Live Projects I Currently Manage 
 [Sendbox Shipping](https://github.com/jhaastrup/sendbox-shipping)
 - A Sendbox WooCommerce Shipping Plugin
+
 [Sendbox Discovery](https://github.com/jhaastrup/sendbox-discovery)
 - Auto import products and orders from your WooCommerce and Shopify Store to your [Sendbox Store](https://sendbox.co/)
 
