@@ -30,6 +30,7 @@ I am a software engineer, WordPress Evangelist and the covener of Kidsthatcode ð
 
 ### Follow and Support Kidsthatcode
 Kidsthatcode is an initave that encourages kids to start coding early. 
+
 [Twitter](https://twitter.com/kidsthatcodeNG)
 
 [Support KTC](https://kidsthatcode.com.ng/sponsor/)
