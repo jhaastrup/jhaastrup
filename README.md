@@ -1,7 +1,9 @@
 ### Howdy Dev Shawties! 👋
 
-### I am Adejoke Haastrup aka Jastrupgeeky 😀
+### I'm Adejoke Haastrup aka Jastrupgeeky 😀
 I am a Software Engineer, WordPress Evangelist and the covener of Kidsthatcode 👩🏾‍💻
+I am passionate about building products and solving problems for users 
+
 
 ### Live Projects I Currently Manage 
 [Sendbox Shipping](https://github.com/jhaastrup/sendbox-shipping)
