@@ -1,16 +1,37 @@
-### Hi there 👋
+### Howdy Dev Shawties! 👋
 
-<!--
-**jhaastrup/jhaastrup** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I am Adejoke Haastrup aka Jastrupgeeky 😀
+I am a software engineer, WordPress Evangelist and the covener of Kidsthatcode 👩🏾‍💻
 
-Here are some ideas to get you started:
+### Live Projects I Currently Manage 
+[Sendbox Shipping](https://github.com/jhaastrup/sendbox-shipping)
+- A Sendbox WooCommerce Shipping Plugin
+[Sendbox Discovery](https://github.com/jhaastrup/sendbox-discovery)
+- Auto import products and orders from your WooCommerce and Shopify Store to your [Sendbox Store](https://sendbox.co/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Fun Projects 
+[Running Man 🏃🏾‍♀️](https://github.com/jhaastrup/running-man) 
+- A React App to help you loose weight if you are into fittness. 
+[Heros 🦸🏽‍♀️](https://github.com/jhaastrup/heros)
+- A Nextjs web APP that dives into MCU and returns cool heros.
+
+### WordPress
+- I currently contriubite to WordPress Community in Lagos, Speak and organize meetups. 
+- I build WordPress sites too you can talk to me about that. 
+
+### WooCommerce 💬
+- Speak to me about WooCommerce websites
+-  If you need to use WOO REST API to build your apps i am your babe.😉 
+
+### Shopify 
+- I would build shopify ecommerce store for you 🛒
+
+### Follow and Support Kidsthatcode
+Kidsthatcode is an initave that encourages kids to start coding early. 
+[Twitter](https://twitter.com/kidsthatcodeNG)
+[Support KTC](https://kidsthatcode.com.ng/sponsor/)
+
+- 📫 How to reach me: [Follow me on Twitter and send me a DM](https://twitter.com/Jasgeekythe6th)
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: In an alternate universe i will be part of the MCU not writing code but fighting villians but since we are in the real world, I am a hero fighting bugs 😐
+
